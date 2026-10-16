@@ -1,0 +1,1271 @@
+[
+  {
+    "map": "zoning-town",
+    "date": "October 2025",
+    "shape_count": 10560,
+    "zones": {
+      "SHARED": 250,
+      "RS12": 346,
+      "RL13": 2606,
+      "RL10": 2362,
+      "RG": 3036,
+      "R8": 1159,
+      "OS": 53,
+      "ML": 53,
+      "MG": 30,
+      "IS": 104,
+      "CV": 330,
+      "CP": 76,
+      "CG": 155
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-1",
+    "date": "March 2026",
+    "shape_count": 587,
+    "zones": {
+      "SHARED": 25,
+      "RL13": 8,
+      "RG": 462,
+      "OS": 5,
+      "IS": 1,
+      "CV": 86
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-2",
+    "date": "January 2024",
+    "shape_count": 820,
+    "zones": {
+      "SHARED": 47,
+      "RL13": 39,
+      "RL10": 88,
+      "RG": 477,
+      "OS": 12,
+      "IS": 7,
+      "CV": 143,
+      "CP": 7
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-3",
+    "date": "June 2023",
+    "shape_count": 1114,
+    "zones": {
+      "SHARED": 48,
+      "RL13": 187,
+      "RL10": 43,
+      "RG": 695,
+      "OS": 12,
+      "IS": 4,
+      "CV": 91,
+      "CP": 13,
+      "CG": 21
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-4",
+    "date": "January 2024",
+    "shape_count": 1396,
+    "zones": {
+      "SHARED": 40,
+      "RL13": 187,
+      "RL10": 377,
+      "RG": 549,
+      "R8": 127,
+      "OS": 9,
+      "ML": 1,
+      "IS": 4,
+      "CV": 3,
+      "CP": 35,
+      "CG": 64
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-5",
+    "date": "March 2026",
+    "shape_count": 1630,
+    "zones": {
+      "SHARED": 31,
+      "RL13": 347,
+      "RL10": 343,
+      "RG": 673,
+      "R8": 96,
+      "OS": 11,
+      "ML": 4,
+      "MG": 8,
+      "IS": 2,
+      "CV": 8,
+      "CP": 31,
+      "CG": 76
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-6",
+    "date": "February 2026",
+    "shape_count": 1109,
+    "zones": {
+      "RL13": 388,
+      "RL10": 177,
+      "RG": 453,
+      "OS": 15,
+      "ML": 4,
+      "MG": 8,
+      "IS": 3,
+      "CV": 14,
+      "CG": 47
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-7",
+    "date": "June 2023",
+    "shape_count": 683,
+    "zones": {
+      "SHARED": 25,
+      "RL13": 622,
+      "RG": 12,
+      "OS": 6,
+      "IS": 1,
+      "CV": 12,
+      "CP": 5
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-8",
+    "date": "January 2024",
+    "shape_count": 1522,
+    "zones": {
+      "SHARED": 56,
+      "RL13": 1045,
+      "RL10": 275,
+      "RG": 27,
+      "OS": 2,
+      "IS": 21,
+      "CV": 33,
+      "CP": 63
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-9",
+    "date": "June 2023",
+    "shape_count": 1218,
+    "zones": {
+      "SHARED": 13,
+      "RL13": 426,
+      "RL10": 51,
+      "RG": 623,
+      "ML": 44,
+      "MG": 1,
+      "IS": 33,
+      "CV": 1,
+      "CP": 8,
+      "CG": 18
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-10",
+    "date": "December 2024",
+    "shape_count": 609,
+    "zones": {
+      "RL13": 121,
+      "RG": 412,
+      "ML": 33,
+      "MG": 4,
+      "IS": 21,
+      "CG": 18
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-11",
+    "date": "March 2026",
+    "shape_count": 789,
+    "zones": {
+      "RL13": 117,
+      "RL10": 182,
+      "RG": 415,
+      "OS": 2,
+      "ML": 49,
+      "IS": 22,
+      "CG": 2
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-12",
+    "date": "June 2023",
+    "shape_count": 1292,
+    "zones": {
+      "SHARED": 27,
+      "RL10": 896,
+      "RG": 281,
+      "OS": 2,
+      "ML": 4,
+      "IS": 13,
+      "CV": 69
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-13",
+    "date": "November 2025",
+    "shape_count": 1719,
+    "zones": {
+      "SHARED": 48,
+      "RL13": 518,
+      "RL10": 781,
+      "RG": 236,
+      "OS": 3,
+      "ML": 7,
+      "IS": 11,
+      "CV": 64,
+      "CP": 51
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-14",
+    "date": "June 2023",
+    "shape_count": 1159,
+    "zones": {
+      "SHARED": 33,
+      "RL13": 274,
+      "RL10": 374,
+      "RG": 290,
+      "MG": 1,
+      "IS": 12,
+      "CV": 175
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {
+      "(0.84314, 0.84314, 0.61961)": 22
+    }
+  },
+  {
+    "map": "zoning-15",
+    "date": "January 2024",
+    "shape_count": 972,
+    "zones": {
+      "SHARED": 40,
+      "RL13": 55,
+      "RL10": 499,
+      "RG": 174,
+      "IS": 10,
+      "CV": 193,
+      "CG": 1
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-16",
+    "date": "February 2025",
+    "shape_count": 1291,
+    "zones": {
+      "SHARED": 30,
+      "RL13": 352,
+      "RL10": 791,
+      "RG": 8,
+      "IS": 3,
+      "CV": 90,
+      "CP": 7,
+      "CG": 10
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-17",
+    "date": "June 2023",
+    "shape_count": 1575,
+    "zones": {
+      "SHARED": 40,
+      "RL13": 916,
+      "RL10": 498,
+      "RG": 15,
+      "OS": 6,
+      "IS": 8,
+      "CV": 54,
+      "CP": 38
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-18",
+    "date": "June 2023",
+    "shape_count": 717,
+    "zones": {
+      "SHARED": 31,
+      "RL13": 317,
+      "RL10": 229,
+      "RG": 59,
+      "IS": 4,
+      "CV": 1,
+      "CP": 12,
+      "CG": 64
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-19",
+    "date": "May 2026",
+    "shape_count": 1855,
+    "zones": {
+      "SHARED": 31,
+      "RL13": 867,
+      "RL10": 317,
+      "RG": 447,
+      "OS": 15,
+      "MG": 8,
+      "IS": 33,
+      "CV": 14,
+      "CP": 31,
+      "CG": 92
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-20",
+    "date": "June 2023",
+    "shape_count": 998,
+    "zones": {
+      "SHARED": 3,
+      "RL13": 153,
+      "RL10": 92,
+      "RG": 256,
+      "R8": 465,
+      "OS": 7,
+      "MG": 19,
+      "IS": 1,
+      "CV": 2
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-21",
+    "date": "February 2026",
+    "shape_count": 624,
+    "zones": {
+      "RS12": 49,
+      "RL13": 51,
+      "RL10": 27,
+      "RG": 20,
+      "R8": 465,
+      "OS": 11,
+      "IS": 1
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-21a",
+    "date": "June 2023",
+    "shape_count": 1191,
+    "zones": {
+      "SHARED": 25,
+      "RS12": 4,
+      "RL13": 417,
+      "RL10": 103,
+      "RG": 175,
+      "R8": 393,
+      "OS": 3,
+      "IS": 4,
+      "CV": 4,
+      "CG": 63
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-21b",
+    "date": "June 2023",
+    "shape_count": 470,
+    "zones": {
+      "RL13": 281,
+      "RL10": 76,
+      "RG": 68,
+      "R8": 19,
+      "IS": 1,
+      "CV": 25
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-22",
+    "date": "June 2023",
+    "shape_count": 1420,
+    "zones": {
+      "SHARED": 28,
+      "RS12": 339,
+      "RL13": 45,
+      "RL10": 52,
+      "RG": 343,
+      "R8": 475,
+      "OS": 20,
+      "IS": 41,
+      "CP": 45,
+      "CG": 32
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-22a",
+    "date": "December 2025",
+    "shape_count": 558,
+    "zones": {
+      "SHARED": 19,
+      "RS12": 18,
+      "RL13": 10,
+      "RG": 286,
+      "R8": 114,
+      "IS": 42,
+      "CP": 29,
+      "CG": 40
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-22b",
+    "date": "June 2023",
+    "shape_count": 808,
+    "zones": {
+      "SHARED": 34,
+      "RS12": 145,
+      "RL10": 84,
+      "RG": 176,
+      "R8": 303,
+      "IS": 1,
+      "CP": 31,
+      "CG": 34
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-22c",
+    "date": "June 2023",
+    "shape_count": 374,
+    "zones": {
+      "RS12": 265,
+      "RG": 16,
+      "R8": 85,
+      "OS": 7,
+      "IS": 1
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-23",
+    "date": "June 2023",
+    "shape_count": 941,
+    "zones": {
+      "SHARED": 13,
+      "RS12": 202,
+      "RL13": 34,
+      "RL10": 329,
+      "RG": 7,
+      "R8": 324,
+      "OS": 5,
+      "IS": 3,
+      "CP": 12,
+      "CG": 12
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-23a",
+    "date": "June 2023",
+    "shape_count": 616,
+    "zones": {
+      "SHARED": 32,
+      "RS12": 15,
+      "RL10": 142,
+      "RG": 98,
+      "R8": 253,
+      "IS": 5,
+      "CP": 19,
+      "CG": 52
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-23b",
+    "date": "June 2023",
+    "shape_count": 632,
+    "zones": {
+      "SHARED": 21,
+      "RL13": 45,
+      "RL10": 350,
+      "RG": 52,
+      "R8": 90,
+      "OS": 8,
+      "IS": 4,
+      "CV": 3,
+      "CP": 22,
+      "CG": 37
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {
+      "(0.53726, 0.80392, 0.4)": 1
+    }
+  },
+  {
+    "map": "zoning-23c",
+    "date": "June 2023",
+    "shape_count": 280,
+    "zones": {
+      "SHARED": 1,
+      "RL13": 54,
+      "RL10": 54,
+      "R8": 165,
+      "OS": 3,
+      "CP": 3
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-23d",
+    "date": "January 2024",
+    "shape_count": 532,
+    "zones": {
+      "SHARED": 35,
+      "RL13": 36,
+      "RL10": 248,
+      "RG": 100,
+      "R8": 7,
+      "OS": 4,
+      "IS": 7,
+      "CV": 78,
+      "CP": 17
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-24",
+    "date": "June 2023",
+    "shape_count": 390,
+    "zones": {
+      "SHARED": 19,
+      "RL13": 40,
+      "RL10": 131,
+      "RG": 125,
+      "R8": 19,
+      "OS": 9,
+      "IS": 1,
+      "CP": 18,
+      "CG": 28
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-24a",
+    "date": "June 2023",
+    "shape_count": 550,
+    "zones": {
+      "SHARED": 10,
+      "RL13": 178,
+      "RL10": 276,
+      "RG": 63,
+      "OS": 3,
+      "CV": 15,
+      "CP": 5
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-24b",
+    "date": "June 2023",
+    "shape_count": 688,
+    "zones": {
+      "SHARED": 2,
+      "RL13": 301,
+      "RL10": 221,
+      "RG": 1,
+      "R8": 155,
+      "OS": 4,
+      "CP": 4
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-24c",
+    "date": "June 2023",
+    "shape_count": 261,
+    "zones": {
+      "RL13": 227,
+      "RL10": 32,
+      "OS": 2
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-25",
+    "date": "Octobert 2024",
+    "shape_count": 310,
+    "zones": {
+      "SHARED": 3,
+      "RL13": 240,
+      "RL10": 19,
+      "RG": 26,
+      "R8": 10,
+      "CV": 1,
+      "CG": 11
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-25a",
+    "date": "June 2023",
+    "shape_count": 205,
+    "zones": {
+      "RL13": 43,
+      "RL10": 11,
+      "R8": 149,
+      "OS": 1,
+      "IS": 1
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-25b",
+    "date": "June 2023",
+    "shape_count": 103,
+    "zones": {
+      "R8": 102,
+      "OS": 1
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  },
+  {
+    "map": "zoning-26",
+    "date": "June 2023",
+    "shape_count": 391,
+    "zones": {
+      "RL13": 6,
+      "RL10": 2,
+      "RG": 48,
+      "R8": 322,
+      "OS": 6,
+      "MG": 7
+    },
+    "legend_checked": [
+      "CG",
+      "CP",
+      "CV",
+      "IS",
+      "MG",
+      "ML",
+      "OS",
+      "R8",
+      "RG",
+      "RL10",
+      "RL13",
+      "RS12",
+      "SHARED"
+    ],
+    "unmapped_fills": {}
+  }
+]

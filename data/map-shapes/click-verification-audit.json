@@ -1,0 +1,455 @@
+[
+  {
+    "map": "zoning-1",
+    "verified_features": 481,
+    "excluded_features": 10,
+    "verified_zones": [
+      "RG",
+      "OS",
+      "IS",
+      "CV"
+    ]
+  },
+  {
+    "map": "zoning-10",
+    "verified_features": 371,
+    "excluded_features": 4,
+    "verified_zones": [
+      "RG",
+      "MG",
+      "IS",
+      "CG"
+    ]
+  },
+  {
+    "map": "zoning-11",
+    "verified_features": 331,
+    "excluded_features": 2,
+    "verified_zones": [
+      "RL10",
+      "RG",
+      "ML",
+      "IS"
+    ]
+  },
+  {
+    "map": "zoning-12",
+    "verified_features": 395,
+    "excluded_features": 17,
+    "verified_zones": [
+      "RL10",
+      "RG",
+      "OS",
+      "CV"
+    ]
+  },
+  {
+    "map": "zoning-13",
+    "verified_features": 392,
+    "excluded_features": 13,
+    "verified_zones": [
+      "RL10",
+      "IS",
+      "CV"
+    ]
+  },
+  {
+    "map": "zoning-14",
+    "verified_features": 277,
+    "excluded_features": 4,
+    "verified_zones": [
+      "RL10",
+      "RG",
+      "IS",
+      "CV"
+    ]
+  },
+  {
+    "map": "zoning-15",
+    "verified_features": 258,
+    "excluded_features": 4,
+    "verified_zones": [
+      "RL10",
+      "RG",
+      "IS",
+      "CV"
+    ]
+  },
+  {
+    "map": "zoning-16",
+    "verified_features": 492,
+    "excluded_features": 16,
+    "verified_zones": [
+      "RL10",
+      "IS",
+      "CV"
+    ]
+  },
+  {
+    "map": "zoning-17",
+    "verified_features": 247,
+    "excluded_features": 9,
+    "verified_zones": [
+      "RL13",
+      "OS",
+      "IS",
+      "CV",
+      "CP"
+    ]
+  },
+  {
+    "map": "zoning-18",
+    "verified_features": 316,
+    "excluded_features": 4,
+    "verified_zones": [
+      "RL13",
+      "CP",
+      "CG"
+    ]
+  },
+  {
+    "map": "zoning-19",
+    "verified_features": 380,
+    "excluded_features": 9,
+    "verified_zones": [
+      "RL13",
+      "RG",
+      "OS",
+      "IS",
+      "CV",
+      "CG"
+    ]
+  },
+  {
+    "map": "zoning-2",
+    "verified_features": 473,
+    "excluded_features": 4,
+    "verified_zones": [
+      "SHARED",
+      "RL10",
+      "RG",
+      "OS",
+      "IS",
+      "CV"
+    ]
+  },
+  {
+    "map": "zoning-20",
+    "verified_features": 418,
+    "excluded_features": 9,
+    "verified_zones": [
+      "RL10",
+      "RG",
+      "R8",
+      "OS",
+      "MG",
+      "IS"
+    ]
+  },
+  {
+    "map": "zoning-21",
+    "verified_features": 100,
+    "excluded_features": 4,
+    "verified_zones": [
+      "RS12",
+      "RL13",
+      "R8",
+      "OS"
+    ]
+  },
+  {
+    "map": "zoning-21a",
+    "verified_features": 276,
+    "excluded_features": 11,
+    "verified_zones": [
+      "RL13",
+      "RG",
+      "R8",
+      "OS",
+      "IS",
+      "CG"
+    ]
+  },
+  {
+    "map": "zoning-21b",
+    "verified_features": 148,
+    "excluded_features": 0,
+    "verified_zones": [
+      "RL13",
+      "RL10",
+      "CV"
+    ]
+  },
+  {
+    "map": "zoning-22",
+    "verified_features": 276,
+    "excluded_features": 6,
+    "verified_zones": [
+      "RS12",
+      "RG",
+      "R8",
+      "OS",
+      "IS"
+    ]
+  },
+  {
+    "map": "zoning-22a",
+    "verified_features": 215,
+    "excluded_features": 2,
+    "verified_zones": [
+      "RG",
+      "IS",
+      "CP",
+      "CG"
+    ]
+  },
+  {
+    "map": "zoning-22b",
+    "verified_features": 175,
+    "excluded_features": 2,
+    "verified_zones": [
+      "SHARED",
+      "RS12",
+      "RG",
+      "R8",
+      "CP",
+      "CG"
+    ]
+  },
+  {
+    "map": "zoning-22c",
+    "verified_features": 250,
+    "excluded_features": 3,
+    "verified_zones": [
+      "RS12",
+      "R8",
+      "OS"
+    ]
+  },
+  {
+    "map": "zoning-23",
+    "verified_features": 12,
+    "excluded_features": 5,
+    "verified_zones": [
+      "R8",
+      "OS"
+    ]
+  },
+  {
+    "map": "zoning-23a",
+    "verified_features": 159,
+    "excluded_features": 3,
+    "verified_zones": [
+      "R8",
+      "IS",
+      "CP",
+      "CG"
+    ]
+  },
+  {
+    "map": "zoning-23b",
+    "verified_features": 365,
+    "excluded_features": 0,
+    "verified_zones": [
+      "RL10",
+      "RG",
+      "OS",
+      "CP",
+      "CG"
+    ]
+  },
+  {
+    "map": "zoning-23c",
+    "verified_features": 165,
+    "excluded_features": 4,
+    "verified_zones": [
+      "R8",
+      "OS"
+    ]
+  },
+  {
+    "map": "zoning-23d",
+    "verified_features": 71,
+    "excluded_features": 4,
+    "verified_zones": [
+      "RL10",
+      "RG",
+      "OS",
+      "IS",
+      "CV",
+      "CP"
+    ]
+  },
+  {
+    "map": "zoning-24",
+    "verified_features": 90,
+    "excluded_features": 1,
+    "verified_zones": [
+      "RL10",
+      "RG",
+      "OS",
+      "CP",
+      "CG"
+    ]
+  },
+  {
+    "map": "zoning-24a",
+    "verified_features": 267,
+    "excluded_features": 0,
+    "verified_zones": [
+      "RL10",
+      "CV"
+    ]
+  },
+  {
+    "map": "zoning-24b",
+    "verified_features": 197,
+    "excluded_features": 1,
+    "verified_zones": [
+      "RL13",
+      "OS"
+    ]
+  },
+  {
+    "map": "zoning-24c",
+    "verified_features": 116,
+    "excluded_features": 1,
+    "verified_zones": [
+      "RL13",
+      "RL10",
+      "OS"
+    ]
+  },
+  {
+    "map": "zoning-25",
+    "verified_features": 146,
+    "excluded_features": 0,
+    "verified_zones": [
+      "RL13"
+    ]
+  },
+  {
+    "map": "zoning-25a",
+    "verified_features": 149,
+    "excluded_features": 0,
+    "verified_zones": [
+      "R8"
+    ]
+  },
+  {
+    "map": "zoning-25b",
+    "verified_features": 27,
+    "excluded_features": 0,
+    "verified_zones": [
+      "R8"
+    ]
+  },
+  {
+    "map": "zoning-26",
+    "verified_features": 200,
+    "excluded_features": 1,
+    "verified_zones": [
+      "R8",
+      "OS"
+    ]
+  },
+  {
+    "map": "zoning-3",
+    "verified_features": 207,
+    "excluded_features": 12,
+    "verified_zones": [
+      "RL13",
+      "RG",
+      "OS",
+      "CP"
+    ]
+  },
+  {
+    "map": "zoning-4",
+    "verified_features": 500,
+    "excluded_features": 6,
+    "verified_zones": [
+      "RL13",
+      "RG",
+      "IS",
+      "CG",
+      "CP"
+    ]
+  },
+  {
+    "map": "zoning-5",
+    "verified_features": 449,
+    "excluded_features": 13,
+    "verified_zones": [
+      "SHARED",
+      "RL13",
+      "RL10",
+      "RG",
+      "ML",
+      "CP",
+      "CG"
+    ]
+  },
+  {
+    "map": "zoning-6",
+    "verified_features": 228,
+    "excluded_features": 2,
+    "verified_zones": [
+      "RL13",
+      "RG",
+      "MG",
+      "CV",
+      "CG"
+    ]
+  },
+  {
+    "map": "zoning-7",
+    "verified_features": 340,
+    "excluded_features": 9,
+    "verified_zones": [
+      "RL13",
+      "RG"
+    ]
+  },
+  {
+    "map": "zoning-8",
+    "verified_features": 555,
+    "excluded_features": 34,
+    "verified_zones": [
+      "RL13",
+      "IS",
+      "CV",
+      "CP"
+    ]
+  },
+  {
+    "map": "zoning-9",
+    "verified_features": 200,
+    "excluded_features": 9,
+    "verified_zones": [
+      "RL13",
+      "RG",
+      "IS"
+    ]
+  },
+  {
+    "map": "zoning-town",
+    "verified_features": 7953,
+    "excluded_features": 2526,
+    "verified_zones": [
+      "SHARED",
+      "RS12",
+      "RL13",
+      "RL10",
+      "RG",
+      "R8",
+      "OS",
+      "ML",
+      "MG",
+      "IS",
+      "CV",
+      "CP",
+      "CG"
+    ]
+  }
+]

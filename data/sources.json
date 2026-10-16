@@ -1,0 +1,1009 @@
+{
+  "scope": "All zoning candidates found in the 2015–2026 annual ordinance books were collected, with council-minute cross-checks. Clerk certification of completeness, remaining exact-text consolidation, later state-law effects, and missing 26-014Z text remain outstanding.",
+  "sources": [
+    {
+      "id": "planning",
+      "url": "https://northprovidenceri.gov/planning-zoning/",
+      "role": "Official planning source index",
+      "accessed_on": "2026-10-16",
+      "local_file": null
+    },
+    {
+      "id": "base",
+      "url": "https://northprovidenceri.gov/pdf/plan/North_Providence_Zoning_Ordinance_amended.pdf",
+      "role": "Town-linked base; labeled December 2014; completeness unverified",
+      "accessed_on": "2026-10-16",
+      "local_file": "sources/base-zoning-december-2014.pdf",
+      "sha256": "0ebf24d2d02c46e6f165262ddbfef5670a28393fd7f2f5b554cc6a9b3dead607",
+      "bytes": 1296502
+    },
+    {
+      "id": "clerk",
+      "url": "https://northprovidenceri.gov/town-clerk/",
+      "role": "Official link to ClerkBase records",
+      "accessed_on": "2026-10-16",
+      "local_file": null
+    },
+    {
+      "id": "clerkbase",
+      "url": "https://clerkshq.com/NorthProvidence-ri",
+      "role": "Searchable record portal",
+      "accessed_on": "2026-10-16",
+      "local_file": null
+    },
+    {
+      "id": "ordinance-index",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/books/ordinance/ord_book2025.htm",
+      "role": "Index; full amendment text is in linked attachments",
+      "accessed_on": "2026-10-16",
+      "local_file": "sources/ordinance-index-2025.html",
+      "sha256": "7c2761721324994b7c0f2da7b149fef8b729baeb9d0875e0cfd421d89a9be6d5",
+      "bytes": 49401
+    },
+    {
+      "id": "cannabis",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o25_022.pdf?clientSite=NorthProvidence-ri",
+      "role": "Signed scanned amendment; both pages visually inspected",
+      "accessed_on": "2026-10-16",
+      "local_file": "sources/ordinance-25-022Z-cannabis.pdf",
+      "sha256": "c0b1198c97fff0fc8b067c82d1b8398c9a03e4427bea2db5b8c890c9c2dda991",
+      "bytes": 74061
+    },
+    {
+      "id": "adoption",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2026/feb03_26tc.htm",
+      "role": "Item 5 records adoption; items 3-4 include a separate rescission",
+      "accessed_on": "2026-10-16",
+      "local_file": "sources/council-minutes-2026-02-03.html",
+      "sha256": "de2784304b6c171f14788b434d9cadf5144af9544518383e6567529d9a1989cf",
+      "bytes": 73949
+    },
+    {
+      "id": "alternative-base",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/books/code/chapter35.htm",
+      "role": "Chapter 35 numbering; crosswalk needed; completeness unverified",
+      "accessed_on": "2026-10-16",
+      "local_file": "sources/clerkbase-chapter35-zoning.html",
+      "sha256": "53788c61cda6182baa1d403260a42a884b6b40b2293c9147d69efe2fc2d919e2",
+      "bytes": 1590840
+    },
+    {
+      "id": "august-minutes",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2026/aug18_26tc.htm",
+      "role": "Flood-hazard adoption and overlay discussion; associated amendments not reconciled",
+      "accessed_on": "2026-10-16",
+      "local_file": "sources/council-minutes-2026-08-18.html",
+      "sha256": "59ecbdb776425e9fd625b6f3bbe659a0c0d799b7546b2cc791982973a0a84d0c",
+      "bytes": 54595
+    },
+    {
+      "id": "october-agenda",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2026/oct06_26ag.htm",
+      "role": "Agenda only; does not establish adoption",
+      "accessed_on": "2026-10-16",
+      "local_file": "sources/council-agenda-2026-10-06.html",
+      "sha256": "45c46af33a240756e9545882620799a5896a96e774f11529b47b3c26754c791e",
+      "bytes": 81586
+    },
+    {
+      "id": "maps",
+      "url": "https://northprovidenceri.gov/plat-maps/",
+      "role": "Individual map index; posting dates do not establish legal effective dates",
+      "accessed_on": "2026-10-16",
+      "local_file": null
+    },
+    {
+      "id": "townwide-map",
+      "url": "https://northprovidenceri.gov/pdf/gis/North_Providence_Townwide_Zoning_Map.pdf",
+      "role": "October 2025 map; later parcel changes not reconciled",
+      "accessed_on": "2026-10-16",
+      "local_file": "sources/townwide-zoning-map-2025.pdf",
+      "sha256": "8caf0b68cc76a38bdc440651c3e59017c211e729f06ad781e99f433a18d23c9d",
+      "bytes": 1248347
+    },
+    {
+      "id": "ord-15-013Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o15_13.pdf?clientSite=NorthProvidence-ri",
+      "title": "15-013Z · Flood-hazard definitions",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o15_13.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-15-015",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o15_15.pdf?clientSite=NorthProvidence-ri",
+      "title": "15-015 · Building, zoning and planning fee schedule",
+      "role": "Related fees · indexed",
+      "local_pdf": "assets/ordinances/o15_15.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-16-011Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o16_11z.pdf?clientSite=NorthProvidence-ri",
+      "title": "16-011Z · Use-table changes and multiple parcel rezonings",
+      "role": "Zoning text + map · adopted",
+      "local_pdf": "assets/ordinances/o16_11z.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-17-002Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o17_02.pdf?clientSite=NorthProvidence-ri",
+      "title": "17-002Z · Plat 6, lots 105 and 110 · comprehensive plan",
+      "role": "Related plan · adopted",
+      "local_pdf": "assets/ordinances/o17_02.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-17-003Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o17_03.pdf?clientSite=NorthProvidence-ri",
+      "title": "17-003Z · Plat 6, lots 338, 339 and 365 · comprehensive plan",
+      "role": "Related plan · adopted",
+      "local_pdf": "assets/ordinances/o17_03.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-17-004Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o17_04.pdf?clientSite=NorthProvidence-ri",
+      "title": "17-004Z · Plat 6, lots 105 and 110 · CG to ML",
+      "role": "Parcel zoning · adopted",
+      "local_pdf": "assets/ordinances/o17_04.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-17-005Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o17_05.pdf?clientSite=NorthProvidence-ri",
+      "title": "17-005Z · Plat 6, lots 338, 339 and 365 · storage use",
+      "role": "Parcel zoning · adopted",
+      "local_pdf": "assets/ordinances/o17_05.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-17-012Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o17_12.pdf?clientSite=NorthProvidence-ri",
+      "title": "17-012Z · Mineral Spring Avenue · institutional land-use plan",
+      "role": "Related plan · adopted",
+      "local_pdf": "assets/ordinances/o17_12.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-17-013Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o17_13.pdf?clientSite=NorthProvidence-ri",
+      "title": "17-013Z · Plat 22A, lots 194, 236 and 336 · CP to IS",
+      "role": "Parcel zoning · adopted",
+      "local_pdf": "assets/ordinances/o17_13.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-19-003",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o19_03.pdf?clientSite=NorthProvidence-ri",
+      "title": "19-003 · Sign standards · §§605, 606 and 608",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o19_03.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-20-001Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o20_01z.pdf?clientSite=NorthProvidence-ri",
+      "title": "20-001Z · Plat 16, lots 32–36 and 38 · RL10 to CV",
+      "role": "Parcel zoning · adopted",
+      "local_pdf": "assets/ordinances/o20_01z.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-21-004",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o21_04.pdf?clientSite=NorthProvidence-ri",
+      "title": "21-004 · Plat 22B · Mineral Spring Avenue commercial rezoning",
+      "role": "Parcel zoning · adopted",
+      "local_pdf": "assets/ordinances/o21_04.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-22-017",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o22_17.pdf?clientSite=NorthProvidence-ri",
+      "title": "22-017 · Plat 16 · restaurant and alcohol restriction removed",
+      "role": "Parcel zoning · adopted",
+      "local_pdf": "assets/ordinances/o22_17.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-23-002Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o23_02z.pdf?clientSite=NorthProvidence-ri",
+      "title": "23-002Z · Residential density and special-use review",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o23_02z.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-23-026Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o23_26z.pdf?clientSite=NorthProvidence-ri",
+      "title": "23-026Z · Excel Academy · Plat 14, lot 381",
+      "role": "Parcel zoning · adopted",
+      "local_pdf": "assets/ordinances/o23_26z.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-23-029Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o23_29.pdf?clientSite=NorthProvidence-ri",
+      "title": "23-029Z · Use-table and variance reforms · Sub A",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o23_29.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-23-030Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o23_30.pdf?clientSite=NorthProvidence-ri",
+      "title": "23-030Z · Adaptive reuse · commercial buildings to housing",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o23_30.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-23-031Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o23_31.pdf?clientSite=NorthProvidence-ri",
+      "title": "23-031Z · Unified development review and development-plan review",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o23_31.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-23-034Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o23_34.pdf?clientSite=NorthProvidence-ri",
+      "title": "23-034Z · Administrative-officer and unified-review fees",
+      "role": "Related fees · adopted",
+      "local_pdf": "assets/ordinances/o23_34.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-23-035Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o23_35.pdf?clientSite=NorthProvidence-ri",
+      "title": "23-035Z · Planning and subdivision fee schedule",
+      "role": "Related fees · adopted",
+      "local_pdf": "assets/ordinances/o23_35.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-24-003Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o24_03.pdf?clientSite=NorthProvidence-ri",
+      "title": "24-003Z · 1342 Douglas Avenue · RL13 to CG",
+      "role": "Parcel zoning · adopted",
+      "local_pdf": "assets/ordinances/o24_03.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-24-005Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o24_05.pdf?clientSite=NorthProvidence-ri",
+      "title": "24-005Z · Variance and special-use applications and hearings",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o24_05.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-24-006Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o24_06.pdf?clientSite=NorthProvidence-ri",
+      "title": "24-006Z · Nonconforming and substandard lots",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o24_06.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-24-007Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o24_07.pdf?clientSite=NorthProvidence-ri",
+      "title": "24-007Z · Specific special-use permit criteria",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o24_07.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-24-008Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o24_08.pdf?clientSite=NorthProvidence-ri",
+      "title": "24-008Z · Definitions · adaptive reuse and development-plan review",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o24_08.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-24-009Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o24_09.pdf?clientSite=NorthProvidence-ri",
+      "title": "24-009Z · District use-table reforms",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o24_09.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-24-011Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o24_11.pdf?clientSite=NorthProvidence-ri",
+      "title": "24-011Z · Planning and zoning meeting recordings",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o24_11.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-24-012Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o24_12.pdf?clientSite=NorthProvidence-ri",
+      "title": "24-012Z · Subdivision/unmerger of certain lots",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o24_12.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-24-014Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o24_14.pdf?clientSite=NorthProvidence-ri",
+      "title": "24-014Z · 15 Smithfield Road · CV to CG with limitations",
+      "role": "Parcel zoning · adopted",
+      "local_pdf": "assets/ordinances/o24_14.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-24-015Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o24_15.pdf?clientSite=NorthProvidence-ri",
+      "title": "24-015Z · Arts education · new use and definition",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o24_15.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-25-002Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o25_02.pdf?clientSite=NorthProvidence-ri",
+      "title": "25-002Z · 1527 Mineral Spring Avenue · CP/R8 to CG",
+      "role": "Parcel zoning · adopted",
+      "local_pdf": "assets/ordinances/o25_02.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-25-008",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o25_08.pdf?clientSite=NorthProvidence-ri",
+      "title": "25-008 · Building, zoning, planning and impact fees",
+      "role": "Related fees · adopted",
+      "local_pdf": "assets/ordinances/o25_08.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-26-001Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o26_01.pdf?clientSite=NorthProvidence-ri",
+      "title": "26-001Z · Residential hardscape limits and parking surfaces",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o26_01.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-26-009Z",
+      "url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o26_09.pdf?clientSite=NorthProvidence-ri",
+      "title": "26-009Z · Flood-hazard districts · repeal and replacement",
+      "role": "Zoning text · adopted",
+      "local_pdf": "assets/ordinances/o26_09.pdf",
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "ord-23-027Z",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2024/jan02_24tc.htm",
+      "title": "23-027Z · Storage facilities proposal · removed from agenda",
+      "role": "Zoning text · removed",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "index-2015",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/books/ordinance/ord_book2015.htm",
+      "title": "2015 ordinance book",
+      "role": "Annual index · reviewed for zoning records",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "index-2016",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/books/ordinance/ord_book2016.htm",
+      "title": "2016 ordinance book",
+      "role": "Annual index · reviewed for zoning records",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "index-2017",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/books/ordinance/ord_book2017.htm",
+      "title": "2017 ordinance book",
+      "role": "Annual index · reviewed for zoning records",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "index-2018",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/books/ordinance/ord_book2018.htm",
+      "title": "2018 ordinance book",
+      "role": "Annual index · reviewed for zoning records",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "index-2019",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/books/ordinance/ord_book2019.htm",
+      "title": "2019 ordinance book",
+      "role": "Annual index · reviewed for zoning records",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "index-2020",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/books/ordinance/ord_book2020.htm",
+      "title": "2020 ordinance book",
+      "role": "Annual index · reviewed for zoning records",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "index-2021",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/books/ordinance/ord_book2021.htm",
+      "title": "2021 ordinance book",
+      "role": "Annual index · reviewed for zoning records",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "index-2022",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/books/ordinance/ord_book2022.htm",
+      "title": "2022 ordinance book",
+      "role": "Annual index · reviewed for zoning records",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "index-2023",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/books/ordinance/ord_book2023.htm",
+      "title": "2023 ordinance book",
+      "role": "Annual index · reviewed for zoning records",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "index-2024",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/books/ordinance/ord_book2024.htm",
+      "title": "2024 ordinance book",
+      "role": "Annual index · reviewed for zoning records",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "index-2026",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/books/ordinance/ord_book2026.htm",
+      "title": "2026 ordinance book",
+      "role": "Annual index · reviewed for zoning records",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-sep01_26tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2026/sep01_26tc.htm",
+      "title": "2026 · sep01_26tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-aug04_26tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2026/aug04_26tc.htm",
+      "title": "2026 · aug04_26tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-jun18_26tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2026/jun18_26tc.htm",
+      "title": "2026 · jun18_26tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-jun02_26tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2026/jun02_26tc.htm",
+      "title": "2026 · jun02_26tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-may05_26tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2026/may05_26tc.htm",
+      "title": "2026 · may05_26tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-apr07_26tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2026/apr07_26tc.htm",
+      "title": "2026 · apr07_26tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-mar03_26tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2026/mar03_26tc.htm",
+      "title": "2026 · mar03_26tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-jan06_26tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2026/jan06_26tc.htm",
+      "title": "2026 · jan06_26tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-dec03_25tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2025/dec03_25tc.htm",
+      "title": "2025 · dec03_25tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-nov05_25tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2025/nov05_25tc.htm",
+      "title": "2025 · nov05_25tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-oct07_25tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2025/oct07_25tc.htm",
+      "title": "2025 · oct07_25tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-sep02_25tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2025/sep02_25tc.htm",
+      "title": "2025 · sep02_25tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-aug06_25tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2025/aug06_25tc.htm",
+      "title": "2025 · aug06_25tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-mar04_25ag",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2025/mar04_25ag.htm",
+      "title": "2025 · mar04_25ag",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-feb04_25tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2025/feb04_25tc.htm",
+      "title": "2025 · feb04_25tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-jan14_25tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2025/jan14_25tc.htm",
+      "title": "2025 · jan14_25tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-dec03_24tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2024/dec03_24tc.htm",
+      "title": "2024 · dec03_24tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-nov06_24tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2024/nov06_24tc.htm",
+      "title": "2024 · nov06_24tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-oct01_24tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2024/oct01_24tc.htm",
+      "title": "2024 · oct01_24tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-sep03_24tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2024/sep03_24tc.htm",
+      "title": "2024 · sep03_24tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-aug06_24tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2024/aug06_24tc.htm",
+      "title": "2024 · aug06_24tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-jun04_24tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2024/jun04_24tc.htm",
+      "title": "2024 · jun04_24tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-mar05_24stc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2024/mar05_24stc.htm",
+      "title": "2024 · mar05_24stc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-feb06_24tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2024/feb06_24tc.htm",
+      "title": "2024 · feb06_24tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-dec05_23tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2023/dec05_23tc.htm",
+      "title": "2023 · dec05_23tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-nov07_23tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2023/nov07_23tc.htm",
+      "title": "2023 · nov07_23tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-oct03_23tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2023/oct03_23tc.htm",
+      "title": "2023 · oct03_23tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-sep19_23tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2023/sep19_23tc.htm",
+      "title": "2023 · sep19_23tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-sep05_23tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2023/sep05_23tc.htm",
+      "title": "2023 · sep05_23tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-aug01_23tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2023/aug01_23tc.htm",
+      "title": "2023 · aug01_23tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-feb07_23tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2023/feb07_23tc.htm",
+      "title": "2023 · feb07_23tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-jan10_23tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2023/jan10_23tc.htm",
+      "title": "2023 · jan10_23tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-nov01_22tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2022/nov01_22tc.htm",
+      "title": "2022 · nov01_22tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-oct04_22tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2022/oct04_22tc.htm",
+      "title": "2022 · oct04_22tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-sep06_22tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2022/sep06_22tc.htm",
+      "title": "2022 · sep06_22tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-aug02_22tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2022/aug02_22tc.htm",
+      "title": "2022 · aug02_22tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-jun07_22tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2022/jun07_22tc.htm",
+      "title": "2022 · jun07_22tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-may03_22tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2022/may03_22tc.htm",
+      "title": "2022 · may03_22tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-apr05_22tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2022/apr05_22tc.htm",
+      "title": "2022 · apr05_22tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-mar01_22tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2022/mar01_22tc.htm",
+      "title": "2022 · mar01_22tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-feb01_22stc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2022/feb01_22stc.htm",
+      "title": "2022 · feb01_22stc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-jan04_22tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2022/jan04_22tc.htm",
+      "title": "2022 · jan04_22tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-dec07_21tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2021/dec07_21tc.htm",
+      "title": "2021 · dec07_21tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-jun21_21tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2021/jun21_21tc.htm",
+      "title": "2021 · jun21_21tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-may19_21tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2021/may19_21tc.htm",
+      "title": "2021 · may19_21tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-may04_21tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2021/may04_21tc.htm",
+      "title": "2021 · may04_21tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-mar02_21tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2021/mar02_21tc.htm",
+      "title": "2021 · mar02_21tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-jan07_20tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2020/jan07_20tc.htm",
+      "title": "2020 · jan07_20tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-dec10_19tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2019/dec10_19tc.htm",
+      "title": "2019 · dec10_19tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-sep03_19tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2019/sep03_19tc.htm",
+      "title": "2019 · sep03_19tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-mar05_19tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2019/mar05_19tc.htm",
+      "title": "2019 · mar05_19tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-apr02_19tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2019/apr02_19tc.htm",
+      "title": "2019 · apr02_19tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-feb05_19tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2019/feb05_19tc.htm",
+      "title": "2019 · feb05_19tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-jun05_18tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2018/jun05_18tc.htm",
+      "title": "2018 · jun05_18tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-mar06_18tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2018/mar06_18tc.htm",
+      "title": "2018 · mar06_18tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-nov07_17tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2017/nov07_17tc.htm",
+      "title": "2017 · nov07_17tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-oct03_17tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2017/oct03_17tc.htm",
+      "title": "2017 · oct03_17tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-sep05_17tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2017/sep05_17tc.htm",
+      "title": "2017 · sep05_17tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-may18_17tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2017/may18_17tc.htm",
+      "title": "2017 · may18_17tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-may02_17tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2017/may02_17tc.htm",
+      "title": "2017 · may02_17tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-nov01_16tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2016/nov01_16tc.htm",
+      "title": "2016 · nov01_16tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-oct04_16tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2016/oct04_16tc.htm",
+      "title": "2016 · oct04_16tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-aug02_16tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2016/aug02_16tc.htm",
+      "title": "2016 · aug02_16tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-nov03_15tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2015/nov03_15tc.htm",
+      "title": "2015 · nov03_15tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-oct06_15tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2015/oct06_15tc.htm",
+      "title": "2015 · oct06_15tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-may05_15tc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2015/may05_15tc.htm",
+      "title": "2015 · may05_15tc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    },
+    {
+      "id": "minutes-mar03_15stc",
+      "url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2015/mar03_15stc.htm",
+      "title": "2015 · mar03_15stc",
+      "role": "Council record · used for lifecycle cross-checks",
+      "local_pdf": null,
+      "accessed_on": "2026-10-16"
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+[
+  {
+    "map": "zoning-1",
+    "shapes": 512,
+    "zones": {
+      "SHARED": 9,
+      "RG": 420,
+      "OS": 2,
+      "IS": 1,
+      "CV": 80
+    },
+    "source_sha256": "3ad6658ac1b5a28b1a9e093541aaab482adce9ae78a55d671cfec82dd76afd98"
+  },
+  {
+    "map": "zoning-10",
+    "shapes": 388,
+    "zones": {
+      "RG": 354,
+      "MG": 4,
+      "IS": 12,
+      "CG": 18
+    },
+    "source_sha256": "4ee847dd0a91f93ec39bccfe9f2cfea80f58c0c3a4fb0fe2c4cf89eab6eef7dc"
+  },
+  {
+    "map": "zoning-11",
+    "shapes": 344,
+    "zones": {
+      "RL10": 18,
+      "RG": 267,
+      "ML": 49,
+      "IS": 10
+    },
+    "source_sha256": "6ea415f9f5f491947f1f1a99dfa746045f28751c066f0ef451cf886318eede47"
+  },
+  {
+    "map": "zoning-12",
+    "shapes": 424,
+    "zones": {
+      "RL10": 373,
+      "RG": 30,
+      "OS": 2,
+      "CV": 19
+    },
+    "source_sha256": "669c1e5575f5c1ce253e1bece1b911c9e1b9ca99c6761a4a3267f829773832fb"
+  },
+  {
+    "map": "zoning-13",
+    "shapes": 438,
+    "zones": {
+      "SHARED": 1,
+      "RL10": 396,
+      "RG": 4,
+      "IS": 7,
+      "CV": 10,
+      "RL13": 10,
+      "CP": 10
+    },
+    "source_sha256": "ee9c31dc1d7b911417b14ee752e946e3f8fbc20988ec61cc8a9b15e6efffa015"
+  },
+  {
+    "map": "zoning-14",
+    "shapes": 299,
+    "zones": {
+      "SHARED": 2,
+      "RL13": 1,
+      "RL10": 39,
+      "RG": 175,
+      "IS": 8,
+      "CV": 74
+    },
+    "source_sha256": "4604ad24a92a9ed390cc60b28308667fe8d801f77effd4525670f74d1c500b5e"
+  },
+  {
+    "map": "zoning-15",
+    "shapes": 298,
+    "zones": {
+      "SHARED": 5,
+      "RL10": 138,
+      "RG": 68,
+      "IS": 3,
+      "CV": 84
+    },
+    "source_sha256": "72f57d243bd4bf79a4bc9956f9ec1fdd88f5a09fbe392b2803bd95149211e157"
+  },
+  {
+    "map": "zoning-16",
+    "shapes": 531,
+    "zones": {
+      "SHARED": 6,
+      "RL13": 6,
+      "RL10": 468,
+      "IS": 1,
+      "CV": 48,
+      "RG": 1,
+      "CP": 1
+    },
+    "source_sha256": "f99f43802689bc3161f2ccda07d75f539947ea5a3228b85e48eae3df3c7a4de0"
+  },
+  {
+    "map": "zoning-17",
+    "shapes": 306,
+    "zones": {
+      "SHARED": 8,
+      "RL13": 231,
+      "RL10": 19,
+      "RG": 1,
+      "OS": 2,
+      "IS": 3,
+      "CV": 5,
+      "CP": 37
+    },
+    "source_sha256": "61ca4465b92baf5b6d0f530a9ab5befc12b190a2df39b0eeb074c384e3bf5b0d"
+  },
+  {
+    "map": "zoning-18",
+    "shapes": 374,
+    "zones": {
+      "SHARED": 4,
+      "RL13": 295,
+      "RL10": 17,
+      "RG": 18,
+      "CV": 1,
+      "CP": 10,
+      "CG": 29
+    },
+    "source_sha256": "dad8632a6a56338e959ccb5fbc1da19df2aea0346e15f096582633686f651646"
+  },
+  {
+    "map": "zoning-19",
+    "shapes": 435,
+    "zones": {
+      "RL13": 166,
+      "RG": 230,
+      "OS": 6,
+      "IS": 3,
+      "CV": 7,
+      "CP": 3,
+      "CG": 20
+    },
+    "source_sha256": "774705681cacee71bce114cde10eb1fdb45bdb51ac380ea014748759144c7419"
+  },
+  {
+    "map": "zoning-2",
+    "shapes": 509,
+    "zones": {
+      "SHARED": 11,
+      "RL10": 11,
+      "RG": 371,
+      "OS": 4,
+      "IS": 4,
+      "CV": 106,
+      "CP": 2
+    },
+    "source_sha256": "f7ccebed3d6a55f2cc990f35ed6f17527ee2081032c1b9d2b87f98f05a6a6afd"
+  },
+  {
+    "map": "zoning-20",
+    "shapes": 479,
+    "zones": {
+      "RL13": 1,
+      "RL10": 82,
+      "RG": 223,
+      "R8": 126,
+      "OS": 26,
+      "MG": 19,
+      "IS": 1,
+      "CV": 1
+    },
+    "source_sha256": "77d8ee62fab461613c0e01725475c565b1ac94de1769ec87b6cfcb29108ce937"
+  },
+  {
+    "map": "zoning-21",
+    "shapes": 139,
+    "zones": {
+      "RS12": 49,
+      "RL13": 23,
+      "RG": 2,
+      "R8": 59,
+      "OS": 6
+    },
+    "source_sha256": "72dc9ce709bf0c25d728b132711b801cd40d5b665b7e44fbd670b6c413693b7e"
+  },
+  {
+    "map": "zoning-21a",
+    "shapes": 339,
+    "zones": {
+      "SHARED": 3,
+      "RL13": 66,
+      "RL10": 4,
+      "RG": 126,
+      "R8": 78,
+      "OS": 21,
+      "IS": 1,
+      "CG": 40
+    },
+    "source_sha256": "5e4d05ea0ffc7b701214aebcc6b9aff0ce6498359ac80c4513187a9f36e42661"
+  },
+  {
+    "map": "zoning-21b",
+    "shapes": 154,
+    "zones": {
+      "RL13": 145,
+      "RL10": 3,
+      "RG": 2,
+      "CV": 4
+    },
+    "source_sha256": "aced521143c1ecd8a8a2a88b85f84640aa81aaa735433f76f245b103a94de246"
+  },
+  {
+    "map": "zoning-22",
+    "shapes": 352,
+    "zones": {
+      "SHARED": 3,
+      "RS12": 79,
+      "RL13": 6,
+      "RG": 79,
+      "R8": 151,
+      "OS": 14,
+      "IS": 2,
+      "CP": 11,
+      "RL10": 2,
+      "CG": 5
+    },
+    "source_sha256": "66c048fce01128c6cf705c169748dc5b24ddb718eb68d2be753494c1e91892f6"
+  },
+  {
+    "map": "zoning-22a",
+    "shapes": 234,
+    "zones": {
+      "SHARED": 3,
+      "RL13": 2,
+      "RG": 156,
+      "IS": 39,
+      "CP": 23,
+      "CG": 11
+    },
+    "source_sha256": "dac911a2dfe7ac2d57f125f26705ab11b8ae65387fa6d4adcd9f22d168c4e337"
+  },
+  {
+    "map": "zoning-22b",
+    "shapes": 213,
+    "zones": {
+      "SHARED": 5,
+      "RS12": 4,
+      "RG": 8,
+      "R8": 159,
+      "CP": 20,
+      "CG": 13,
+      "RL10": 4
+    },
+    "source_sha256": "65edc75f766c00a166cb4694a9baf58205f50e018f6cca2db80ff14992711c7c"
+  },
+  {
+    "map": "zoning-22c",
+    "shapes": 255,
+    "zones": {
+      "RS12": 230,
+      "RG": 2,
+      "R8": 21,
+      "OS": 2
+    },
+    "source_sha256": "8b3f79886f2ec5f24ffcd8f0cb0cda6fa577097fcee98004b27c695638aea34f"
+  },
+  {
+    "map": "zoning-23",
+    "shapes": 49,
+    "zones": {
+      "SHARED": 1,
+      "RS12": 6,
+      "RL13": 8,
+      "RL10": 5,
+      "R8": 28,
+      "OS": 1
+    },
+    "source_sha256": "3c9590468c5097e19a9cb4e76756fa7f8ed5f8b60d39cda5c5d63910d85516c4"
+  },
+  {
+    "map": "zoning-23a",
+    "shapes": 195,
+    "zones": {
+      "SHARED": 7,
+      "RS12": 1,
+      "RG": 2,
+      "R8": 141,
+      "IS": 4,
+      "CP": 13,
+      "CG": 23,
+      "RL10": 4
+    },
+    "source_sha256": "8cdf6b24eebc4b5995844f82f46a81db116b9daaf5a2681d81bd7688a088dc01"
+  },
+  {
+    "map": "zoning-23b",
+    "shapes": 379,
+    "zones": {
+      "SHARED": 4,
+      "RL10": 344,
+      "RG": 6,
+      "OS": 1,
+      "IS": 2,
+      "CP": 7,
+      "CG": 14,
+      "R8": 1
+    },
+    "source_sha256": "8aa41eab27da507f6b81a27b82c302177111e15c1d8fa733537b8f756c354e00"
+  },
+  {
+    "map": "zoning-23c",
+    "shapes": 175,
+    "zones": {
+      "RL13": 9,
+      "R8": 164,
+      "OS": 2
+    },
+    "source_sha256": "fcd1432d2e02b0295e0137f8687af466ddc188cb4bf1af8af9f779526931c78f"
+  },
+  {
+    "map": "zoning-23d",
+    "shapes": 122,
+    "zones": {
+      "SHARED": 7,
+      "RL13": 1,
+      "RL10": 11,
+      "RG": 41,
+      "OS": 3,
+      "IS": 9,
+      "CV": 40,
+      "CP": 10
+    },
+    "source_sha256": "ce03c81a09373df2abe3a81c803128b573701824a39b3eb620d4f9b71a0308e5"
+  },
+  {
+    "map": "zoning-24",
+    "shapes": 110,
+    "zones": {
+      "SHARED": 6,
+      "RL13": 3,
+      "RL10": 23,
+      "RG": 50,
+      "OS": 9,
+      "CP": 6,
+      "CG": 13
+    },
+    "source_sha256": "7357585beb2ef6ee99585f78ab5e7a755aa81b8be207762c84090f2be6dd2638"
+  },
+  {
+    "map": "zoning-24a",
+    "shapes": 272,
+    "zones": {
+      "SHARED": 1,
+      "RL13": 2,
+      "RL10": 261,
+      "CV": 6,
+      "RG": 1,
+      "CP": 1
+    },
+    "source_sha256": "5ccc01777104d38f7f444ffafa4e9e0538b795e6eb386b48049dc579e3888fc0"
+  },
+  {
+    "map": "zoning-24b",
+    "shapes": 222,
+    "zones": {
+      "RL13": 208,
+      "R8": 11,
+      "OS": 3
+    },
+    "source_sha256": "544f06780dbd87484309a08bc1abda3ba28fa825170ac99064b2859ae331d13f"
+  },
+  {
+    "map": "zoning-24c",
+    "shapes": 119,
+    "zones": {
+      "RL13": 114,
+      "RL10": 4,
+      "OS": 1
+    },
+    "source_sha256": "24965edf5d83ce937e6f4613f5fa5ab05bfa7234cdcc540b017243c0aac35944"
+  },
+  {
+    "map": "zoning-25",
+    "shapes": 155,
+    "zones": {
+      "RL13": 148,
+      "CV": 1,
+      "CG": 3,
+      "RG": 3
+    },
+    "source_sha256": "02411f0c2de99092e1dcb08bc4cfa001dcc436a3c3664d8e03747b24a4b1202f"
+  },
+  {
+    "map": "zoning-25a",
+    "shapes": 161,
+    "zones": {
+      "RL10": 2,
+      "R8": 149,
+      "OS": 10
+    },
+    "source_sha256": "f22f61d956a9b32bdd02d62c00930a9995a866f528a4c1c8444680da42886681"
+  },
+  {
+    "map": "zoning-25b",
+    "shapes": 27,
+    "zones": {
+      "R8": 27
+    },
+    "source_sha256": "b5bec597b8940490b4a23dbf74008cae45500564308a39864717084a9cb3bc24"
+  },
+  {
+    "map": "zoning-26",
+    "shapes": 215,
+    "zones": {
+      "R8": 196,
+      "OS": 19
+    },
+    "source_sha256": "8e759666cc9e25b85a2dc96b6d29f03ab5a7a3b4d3c9a735f7f04cbb1b8a54ea"
+  },
+  {
+    "map": "zoning-3",
+    "shapes": 274,
+    "zones": {
+      "SHARED": 6,
+      "RL13": 187,
+      "RG": 51,
+      "OS": 8,
+      "IS": 3,
+      "CV": 8,
+      "CP": 8,
+      "CG": 3
+    },
+    "source_sha256": "aa86acd3b02aedf41695497c91539f9153b13da31196f65922adabc300bd1a36"
+  },
+  {
+    "map": "zoning-4",
+    "shapes": 546,
+    "zones": {
+      "SHARED": 2,
+      "RL13": 4,
+      "RG": 484,
+      "R8": 8,
+      "OS": 1,
+      "IS": 2,
+      "CG": 29,
+      "CP": 9,
+      "RL10": 7
+    },
+    "source_sha256": "87819c3cd195c0d7d69cdec8c44f21e4d523e4a12733cefc572acafc74d65f28"
+  },
+  {
+    "map": "zoning-5",
+    "shapes": 529,
+    "zones": {
+      "SHARED": 8,
+      "RL13": 13,
+      "RL10": 325,
+      "RG": 130,
+      "R8": 7,
+      "ML": 4,
+      "IS": 4,
+      "CV": 1,
+      "CP": 12,
+      "CG": 25
+    },
+    "source_sha256": "12ce784c1443fc00e5dfdac80fbe42c420caee0c1e68813b4ea8b0595b0a1ea7"
+  },
+  {
+    "map": "zoning-6",
+    "shapes": 255,
+    "zones": {
+      "RL13": 167,
+      "RG": 32,
+      "ML": 3,
+      "MG": 8,
+      "CV": 9,
+      "CG": 36
+    },
+    "source_sha256": "7520fea71a9eeda20907ae9057f938708a46b72b03e70be57ee2f574b31cad4a"
+  },
+  {
+    "map": "zoning-7",
+    "shapes": 352,
+    "zones": {
+      "RL13": 338,
+      "RG": 12,
+      "CV": 2
+    },
+    "source_sha256": "438dcfcff04fe1b02945882c6e9e5bd6b7cc9f73e48e7ee0088dddce2cb7a9a6"
+  },
+  {
+    "map": "zoning-8",
+    "shapes": 633,
+    "zones": {
+      "SHARED": 13,
+      "RL13": 532,
+      "RL10": 8,
+      "IS": 15,
+      "CV": 30,
+      "CP": 35
+    },
+    "source_sha256": "de5aba1f6f89d5082be581d09d4b9d6e0bc5fc23939c080ea34d78a37f444793"
+  },
+  {
+    "map": "zoning-9",
+    "shapes": 224,
+    "zones": {
+      "RL13": 167,
+      "RL10": 6,
+      "RG": 29,
+      "IS": 22
+    },
+    "source_sha256": "2be18bb0f22956d9019440f3d5a5a4461e7cafcd4fff65addd535d7d5cc02bbc"
+  },
+  {
+    "map": "zoning-town",
+    "shapes": 10562,
+    "zones": {
+      "SHARED": 250,
+      "RS12": 345,
+      "RL13": 2607,
+      "RL10": 2362,
+      "RG": 3038,
+      "R8": 1160,
+      "OS": 52,
+      "ML": 53,
+      "MG": 30,
+      "IS": 104,
+      "CV": 330,
+      "CP": 76,
+      "CG": 155
+    },
+    "source_sha256": "8caf0b68cc76a38bdc440651c3e59017c211e729f06ad781e99f433a18d23c9d"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "municipality": "North Providence",
+  "state": "RI",
+  "researched_on": "2026-10-16",
+  "coverage": "One verified amendment example; not a complete current zoning ordinance",
+  "ordinance_id": "25-022Z",
+  "identifier_variants": ["25-22Z"],
+  "adoption_date": "2026-02-03",
+  "mayoral_approval_date": "2026-02-05",
+  "effective_date_clause": "Takes effect upon adoption",
+  "legal_commencement_review": "Keep adoption and approval dates separately; town confirmation required if their legal relationship is material",
+  "source_url": "https://clerkshq.com/Content/Attachments/NorthProvidence-ri/o25_022.pdf?clientSite=NorthProvidence-ri",
+  "adoption_evidence_url": "https://clerkshq.com/Content/NorthProvidence-ri/council/2026/feb03_26tc.htm",
+  "adoption_evidence_locator": "Item 5",
+  "inspection_method": "Visual inspection of both scanned PDF pages",
+  "changes": [
+    {
+      "operation": "insert_table_row",
+      "target": "Article II, section 203(H), Retail Business, row 27",
+      "use": "Cannabis retailer (medical and recreational)",
+      "old_row": null,
+      "old_row_status": "No explicit cannabis or marijuana row found in the December 2014 base",
+      "district_values": {"R12":"N","R8":"N","RL":"N","RG":"N","IS":"N","CP":"N","CV":"N","CG":"N","ML":"N","MG":"S","OS":"N"},
+      "source_pdf_page": 1,
+      "diff_presentation": "Green insertion; do not invent deleted prior values",
+      "additional_conditions": "Article V special-use standards on amendment pages 1 and 2 must also be consulted"
+    },
+    {"operation":"insert_definition","target":"Article XIII","source_pdf_page":1,"status":"Located; full exact-text consolidation not performed"},
+    {"operation":"insert_special_use_standards","target":"Article V, item 31","source_pdf_pages":[1,2],"status":"Located; full exact-text consolidation not performed"}
+  ],
+  "review_flags": [
+    "Heading refers to Article 8 for definitions; operative section 2 refers to Article XIII",
+    "ClerkBase uses Chapter 35 numbering; crosswalk required before applying Article II references to that base",
+    "Subsequent full amendment history and state-law effects are not comprehensively audited",
+    "Parcel zoning, overlays and current map amendments remain unverified"
+  ]
+}
